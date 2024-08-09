@@ -71,7 +71,7 @@ class TextDisplayApp(QMainWindow):
         # Set the layout for the dialog
         dialog.setLayout(dialog_layout)
 
-        # Show the dialog as a modal dialog (blocks the main window)
+        # Show the dialog as a modal dialog (blocks s the main window)
         dialog.exec_()
         
 def main():
