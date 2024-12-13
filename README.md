@@ -1,1 +1,1 @@
-Đây là project game X
+Đây là project game X.
